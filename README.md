@@ -12,7 +12,7 @@ Master's student in Engineering Sciences – Mechatronics @ TH Rosenheim, German
 
 Metal 3D-printing research, PLC digital twins, DfAM parts, robots, and a 3D-printing business that sold real products.
 
-[🌐 Portfolio](https://ajadav-mech.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/agneyjadav/) · [✉️ agney2001@gmail.com](mailto:agney2001@gmail.com) · 📞 +49 1551 0677866
+[🌐 Portfolio](https://ajadav-mech.github.io) · [📄 CV (PDF)](https://ajadav-mech.github.io/assets/Agney_Jadav_CV_EN.pdf) · [📄 Lebenslauf](https://ajadav-mech.github.io/assets/Agney_Jadav_CV_DE.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/agneyjadav/) · [✉️ agney2001@gmail.com](mailto:agney2001@gmail.com) · 📞 +49 1551 0677866
 
 **🟢 Open to Werkstudent roles now · Full-time graduate roles from 2027 · Anywhere in Germany**
 
@@ -51,12 +51,12 @@ Metal 3D-printing research, PLC digital twins, DfAM parts, robots, and a 3D-prin
 
 - **Co-Founder & Prototype Developer – Sewing3D, India** (Jun 2023 – May 2025): CAD, FDM/DLP prototyping and production, workflow optimisation, machine reliability
 - **Robotics Instructor – BrightCHAMPS** (Jun 2023 – Dec 2024): taught embedded systems, sensors and automation basics to 50+ students in India, Japan and the USA
-- **Production Technology Intern – RAJOO Engineers, India** (Jun 2022 – Jul 2023): plastics extrusion machinery; CNC machining (5-axis, VMC) and G-code, PLC programming and sensor integration, production and process optimisation
+- **Production Technology Intern – RAJOO Engineers, India** (Jul 2022, 3 weeks): plastics extrusion machinery; CNC machining (5-axis, VMC) and G-code, PLC programming and sensor integration, production and process optimisation
 
 ### Education
 
 - **Master's in Engineering Sciences – Mechatronics**, TH Rosenheim, Germany (Oct 2024 – present)
-- **Bachelor's in Mechatronics Engineering**, U. V. Patel College of Engineering, Ganpat University, India (2019 – 2023), grade 1.46
+- **Bachelor's in Mechatronics Engineering**, U. V. Patel College of Engineering, Ganpat University, India (2019 – 2023), Note 1,46
 
 ### Tools
 
@@ -114,7 +114,7 @@ Metal 3D-printing research, PLC digital twins, DfAM parts, robots, and a 3D-prin
 
 - **Mitgründer & Prototypenentwickler – Sewing3D** (06/2023 – 05/2025)
 - **Robotik-Dozent – BrightCHAMPS** (06/2023 – 12/2024): 50+ Schüler in Indien, Japan und den USA
-- **Praktikant Produktionstechnik – RAJOO Engineers** (06/2022 – 07/2023): CNC (5-Achs, VMC), SPS und Sensorintegration, Prozessoptimierung
+- **Praktikant Produktionstechnik – RAJOO Engineers** (07/2022, 3 Wochen): CNC (5-Achs, VMC), SPS und Sensorintegration, Prozessoptimierung
 
 ### Ausbildung
 
