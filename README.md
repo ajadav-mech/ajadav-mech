@@ -61,7 +61,7 @@ Metal 3D-printing research, PLC digital twins, DfAM parts, robots, and a 3D-prin
 ### Tools
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat)
-![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=flat&logo=siemens&logoColor=white)
+![Siemens NX (learning)](https://img.shields.io/badge/Siemens%20NX%20(learning)-009999?style=flat&logo=siemens&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F37C20?style=flat&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=flat)
@@ -73,7 +73,7 @@ Metal 3D-printing research, PLC digital twins, DfAM parts, robots, and a 3D-prin
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
 **Manufacturing:** LPBF · PolyJet · FDM · DLP · CNC (5-axis, VMC) · G-code · plastic processing
-**Analysis:** FEM/CFD · SEM/EDX · metallography · hardness testing · statistics (ANOVA) · SAS
+**Analysis:** FEM/CFD · SEM/EDX · metallography · hardness testing · statistics (ANOVA)
 
 ### Certifications & awards
 
